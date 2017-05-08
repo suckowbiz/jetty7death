@@ -10,6 +10,7 @@ Run:
 2. Deploy `target/jetty7death.war` to your Jetty 7.
 
 For local test:
+
 2. `./run-jetty.sh`
 3. `./deploy-war.sh`
 4. `./fire-request.sh`
